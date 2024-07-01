@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\maintest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\maintest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\itempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\itempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\itempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\itempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\maintest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\maintest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\sectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\sectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\sectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\sectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\datamodel\\controlinfodata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\datamodel\\controlinfodata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\helper\\navigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\helper\\navigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\itemtemplates.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\itemtemplates.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|d:\\microsoft visual studio\\source\\repos\\app1\\app1\\helper\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDC1C6-5D10-4318-B3DE-34FF4622AD4B}|App1\\App1.csproj|solutionrelative:app1\\helper\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemPage.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\ItemPage.xaml",
+              "RelativeDocumentMoniker": "App1\\ItemPage.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\ItemPage.xaml",
+              "RelativeToolTip": "App1\\ItemPage.xaml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T05:41:44.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemPage.xaml.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\ItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\ItemPage.xaml.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\ItemPage.xaml.cs",
+              "RelativeToolTip": "App1\\ItemPage.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwEUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:41:36.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainTest.xaml.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\MainTest.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\MainTest.xaml.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\MainTest.xaml.cs",
+              "RelativeToolTip": "App1\\MainTest.xaml.cs",
+              "ViewState": "AQIAAH8BAAAAAAAAAAA5wFYBAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:09:43.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App.xaml",
+              "RelativeDocumentMoniker": "App1\\App.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App.xaml",
+              "RelativeToolTip": "App1\\App.xaml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T00:11:17.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App.xaml.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App.xaml.cs",
+              "RelativeToolTip": "App1\\App.xaml.cs",
+              "ViewState": "AQIAAPUAAAAAAAAAAAA+wP8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:12:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainTest.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\MainTest.xaml",
+              "RelativeDocumentMoniker": "App1\\MainTest.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\MainTest.xaml",
+              "RelativeToolTip": "App1\\MainTest.xaml",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAKAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T06:08:30.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemTemplates.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\ItemTemplates.xaml",
+              "RelativeDocumentMoniker": "App1\\ItemTemplates.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\ItemTemplates.xaml",
+              "RelativeToolTip": "App1\\ItemTemplates.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T01:45:59.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SectionPage.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\SectionPage.xaml",
+              "RelativeDocumentMoniker": "App1\\SectionPage.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\SectionPage.xaml",
+              "RelativeToolTip": "App1\\SectionPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T05:23:00.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SectionPage.xaml.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\SectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\SectionPage.xaml.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\SectionPage.xaml.cs",
+              "RelativeToolTip": "App1\\SectionPage.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:30:58.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavigationHelper.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\Helper\\NavigationHelper.cs",
+              "RelativeDocumentMoniker": "App1\\Helper\\NavigationHelper.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\Helper\\NavigationHelper.cs",
+              "RelativeToolTip": "App1\\Helper\\NavigationHelper.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAIAywJIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:03:15.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControlInfoData.json",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\DataModel\\ControlInfoData.json",
+              "RelativeDocumentMoniker": "App1\\DataModel\\ControlInfoData.json",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\DataModel\\ControlInfoData.json",
+              "RelativeToolTip": "App1\\DataModel\\ControlInfoData.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T02:38:07.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThemeHelper.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\Helper\\ThemeHelper.cs",
+              "RelativeDocumentMoniker": "App1\\Helper\\ThemeHelper.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\Helper\\ThemeHelper.cs",
+              "RelativeToolTip": "App1\\Helper\\ThemeHelper.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAkwFgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:16:19.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

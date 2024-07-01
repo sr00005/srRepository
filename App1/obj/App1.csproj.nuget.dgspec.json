@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App1.csproj": {}
+  },
+  "projects": {
+    "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App1.csproj",
+        "projectName": "App1",
+        "projectPath": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App1.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows10.0.19041": {
+            "targetAlias": "net8.0-windows10.0.19041.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows10.0.19041": {
+          "targetAlias": "net8.0-windows10.0.19041.0",
+          "dependencies": {
+            "ColorCode.WinUI": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            },
+            "CommunityToolkit.WinUI.Animations": {
+              "target": "Package",
+              "version": "[8.0.240109, )"
+            },
+            "CommunityToolkit.WinUI.Controls.SettingsControls": {
+              "target": "Package",
+              "version": "[8.0.240109, )"
+            },
+            "CommunityToolkit.WinUI.Converters": {
+              "target": "Package",
+              "version": "[8.0.240109, )"
+            },
+            "Microsoft.Graphics.Win2D": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.Windows.CsWinRT": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "target": "Package",
+              "version": "[10.0.22621.756, )"
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[1.5.240607001, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+              "version": "[8.0.6, 8.0.6]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.6, 8.0.6]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[8.0.6, 8.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-arm64",
+              "version": "[8.0.6, 8.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.6, 8.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[8.0.6, 8.0.6]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.31, 10.0.19041.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
+              "version": "[8.0.6, 8.0.6]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[8.0.6, 8.0.6]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[8.0.6, 8.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

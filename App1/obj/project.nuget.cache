@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPVPGqONSw8=",
+  "success": true,
+  "projectFilePath": "D:\\Microsoft Visual Studio\\Source\\Repos\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\colorcode.core\\2.0.15\\colorcode.core.2.0.15.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\colorcode.winui\\2.0.15\\colorcode.winui.2.0.15.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.common\\8.2.1\\communitytoolkit.common.8.2.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.winui.animations\\8.0.240109\\communitytoolkit.winui.animations.8.0.240109.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.winui.controls.settingscontrols\\8.0.240109\\communitytoolkit.winui.controls.settingscontrols.8.0.240109.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.winui.converters\\8.0.240109\\communitytoolkit.winui.converters.8.0.240109.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.winui.extensions\\8.0.240109\\communitytoolkit.winui.extensions.8.0.240109.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.winui.helpers\\8.0.240109\\communitytoolkit.winui.helpers.8.0.240109.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.winui.triggers\\8.0.240109\\communitytoolkit.winui.triggers.8.0.240109.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.graphics.win2d\\1.2.0\\microsoft.graphics.win2d.1.2.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.cswinrt\\2.0.3\\microsoft.windows.cswinrt.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240607001\\microsoft.windowsappsdk.1.5.240607001.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.6\\microsoft.netcore.app.runtime.win-x86.8.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.6\\microsoft.aspnetcore.app.runtime.win-x86.8.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\8.0.6\\microsoft.netcore.app.runtime.win-arm64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.6\\microsoft.aspnetcore.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\8.0.6\\microsoft.windowsdesktop.app.runtime.win-arm64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\8.0.6\\microsoft.aspnetcore.app.runtime.win-arm64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.6\\microsoft.netcore.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.6\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
